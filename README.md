@@ -35,4 +35,4 @@ Predicting Gold/USD closing prices using an LSTM neural network trained on 25+ y
 
 ## Usage
 
-Open `forecasting_fixed.ipynb` in Jupyter and run all cells. The notebook is self-contained and outputs all plots and metrics inline.
+Open `forecasting_output.ipynb` in Jupyter — all cells are pre-executed with outputs and plots already visible.
